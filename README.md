@@ -6,3 +6,9 @@ In this project, we will build a simple form that collects user information, inc
 
 App example
 ![Alt text](image.png)
+
+How to run the project:
+
+go to the file you want to run
+run : npm install
+run : npm start
